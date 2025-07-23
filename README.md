@@ -1,5 +1,7 @@
 # Randos Note
 
+[Download in Marketplace](https://marketplace.visualstudio.com/items?itemName=MuikoDev.randos-note)
+
 One command. One file. Endless brain dumps.
 
 A tiny VS Code extension that opens (or creates) a single rolling notes file so you can jot thoughts fast—no more unsaved scratch tabs.
