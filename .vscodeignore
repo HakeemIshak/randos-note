@@ -1,14 +1,21 @@
-.vscode/**
-.vscode-test/**
-out/**
-node_modules/**
+# keep what i need first
+**/*
+!dist/**
+!package.json
+!README.md
+!readme.md
+!LICENSE*
+!CHANGELOG.md
+!changelog.md
+
+# then ignore everything i dont need
+pnpm-lock.yaml
 src/**
-.gitignore
-.yarnrc
+.vscode/**
+.github/**
+*.map
+test/**
+out/**
 webpack.config.js
-vsc-extension-quickstart.md
-**/tsconfig.json
-**/eslint.config.mjs
-**/*.map
-**/*.ts
-**/.vscode-test.*
+tsconfig.json
+.eslintrc*
