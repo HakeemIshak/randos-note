@@ -10,6 +10,7 @@
     "type": "git",
     "url": "git+ssh://git@github.com:HakeemIshak/randos-note.git"
   },
+  "license": "CC0-1.0",
   "homepage": "https://github.com/HakeemIshak/randos-note#readme",
   "categories": ["Notebooks"],
   "keywords": ["notes", "scratchpad", "quick note", "randos"],
