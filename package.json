@@ -2,6 +2,7 @@
   "name": "randos-note",
   "displayName": "Randos Note",
   "description": "Open and jot down thoughts in a single rolling notes file from the Command Palette.",
+  "publisher": "MuikoDev",
   "version": "0.0.1",
   "engines": {
     "vscode": "^1.102.1"
